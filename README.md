@@ -1,0 +1,2 @@
+# meanapp
+lean MEAN stack
